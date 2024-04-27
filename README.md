@@ -12,7 +12,7 @@ pcb文件可以在嘉立创里面打板，控制板好像没办法白嫖，自�
 3、市电检测部分的元件朝向参照图片  
 4、所有版本的板子都使用一套PCB，但是如果是4个按钮的板子，按钮的位置是不一样的  
 ![单开图片](https://github.com/trz0332/switch-86/blob/main/png/%E5%8D%95%E5%BC%80.png)
-
+![双开图片](https://github.com/trz0332/switch-86/blob/main/png/%E5%8F%8C%E5%BC%80.png)
 
 
 +   ## 固件部分  
